@@ -44,4 +44,6 @@ Most frequent failed login attempts
 Suspicious IP activity
 
 Authentication patterns
+<img width="1919" height="939" alt="Screenshot 2026-02-03 170041" src="" />
+
 
